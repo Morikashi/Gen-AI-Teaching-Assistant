@@ -77,7 +77,6 @@ application_key_blackblaze = ''
 ```gradio run app.py```
 
 ### Use the Application
-To test Geeknavi, open this link:
 1. Select the lecture file or YouTube link.
 2. You can use either an audio or video file, and the file can be locally stored, remotely stored (and publicly accessible), or on YouTube.
 
